@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\bin\Debug\iz5_opp.exe.config
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\bin\Debug\iz5_opp.exe
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\bin\Debug\iz5_opp.pdb
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.exe
+C:\Users\Acer\Desktop\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.pdb
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\bin\Debug\iz5_opp.exe.config
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\bin\Debug\iz5_opp.exe
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\bin\Debug\iz5_opp.pdb
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.exe
+C:\Users\Acer\Desktop\учеба\3 курс\ОПП\C#\iz5_opp\obj\Debug\iz5_opp.pdb
